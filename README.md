@@ -16,25 +16,56 @@
 
 </div>
 
-## 🎯 Open to Opportunities
-
-I am actively open to both **Full-Time** & **Contract** opportunities in:
-- 🤖 **AI / ML Engineering** — Agentic AI, Multi-Agent Systems (LangGraph), RAG Architectures, Local LLMs, FastAPI.
-- ☁️ **Cloud & DevOps Engineering** — AWS (ECS Fargate, EKS, Lambda), Kubernetes, Docker, Terraform, CI/CD, DevSecOps.
-- 🚀 **Full-Stack AI / Platform Engineering** — End-to-end AI products with production-grade cloud deployment.
-
-📍 **Location:** Remote / Relocate (Bangalore, Pune, Hyderabad, NCR, Worldwide) • **Availability:** Immediate Joiner
+```javascript
+const shobhit = {
+  role: "AI & Cloud Infrastructure Engineer",
+  location: "India 🇮🇳",
+  status: "🟢 Open for Opportunities (AI/ML & Cloud/DevOps)",
+  workingOn: {
+    current: ["InfraGenie 🧞‍♂️", "LangGraph Agents", "Kubernetes & Terraform IaC"],
+    building: ["Zero-Touch DevSecOps Automation", "Enterprise Multi-PDF RAG Systems"]
+  },
+  certifications: ["AWS Cloud Practitioner ☁️", "TryHackMe Pre-Security 🛡️"],
+  passion: "Bridging generative AI with production-grade, resilient cloud infrastructure",
+  philosophy: "Deploy Fast. Break Nothing. Automate Everything. 🚀"
+};
+```
 
 ---
 
-## 👨‍💻 About Me
+## 🛠️ Tech Stack & Tools
 
-- 🔭 **Building:** [InfraGenie](https://github.com/itskie/infragenie) — An autonomous AI-native DevSecOps tool that generates CIS-hardened Dockerfiles and deploys to AWS ECS Fargate in <2 mins.
-- 💼 **Experience:** DevOps Engineer Intern @ **WebArclight** (Terraform, AWS, Kubernetes, CI/CD).
-- 🧠 **Focus Areas:** Agentic AI Workflows (LangGraph/LangChain), Cloud Infrastructure (AWS/ECS/EKS/Terraform), and DevSecOps Automation.
-- 🎓 **Education:** BCA (Cloud Computing), Amity University, Noida (CGPA: 8.1/10).
-- 💬 **Ask me about:** Python, FastAPI, AWS Architecture, Docker, LangChain, RAG, and Linux internals.
-- ⚡ **Philosophy:** *I don't just learn theory — I ship real, production-ready products.* 🚀
+<div align="center">
+
+### ☁️ Cloud & Infrastructure
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,nginx&theme=dark" />
+  </a>
+</p>
+
+### 🔄 CI/CD & DevSecOps & Observability
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=githubactions,git,bash,prometheus,grafana&theme=dark" />
+  </a>
+</p>
+
+### 🤖 AI, Backend & Frameworks
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,js,nextjs&theme=dark" />
+  </a>
+</p>
+
+### 🗄️ Databases & Developer Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,vscode,postman,github&theme=dark" />
+  </a>
+</p>
+
+</div>
 
 ---
 
@@ -94,57 +125,6 @@ I am actively open to both **Full-Time** & **Contract** opportunities in:
     </td>
   </tr>
 </table>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 🤖 AI & Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-</p>
-
-### 🛡️ DevSecOps & Observability
-<p>
-  <img src="https://img.shields.io/badge/Trivy-1D70B8?style=for-the-badge&logo=aquasec&logoColor=white" />
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
-</p>
-
-### 💻 Languages & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
-
-</div>
 
 ---
 

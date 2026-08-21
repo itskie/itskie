@@ -1,113 +1,155 @@
-<h1 align="center">Shobhit Singh</h1>
+<div align="center">
 
-<h3 align="center">Full Stack AI Developer &nbsp;|&nbsp; Python • FastAPI • React • LangChain • GenAI</h3>
+# Hi there, I'm Shobhit Singh 👋
+
+### 🚀 AI & Cloud Infrastructure Engineer | Open-Source Creator
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=00B4D8&center=true&vCenter=true&width=620&lines=Building+Agentic+AI+Systems+%26+LangGraph+Workflows;Automating+Cloud+Infra+with+AWS%2C+ECS+%26+Terraform;Creator+of+InfraGenie+%E2%9E%94+Zero-Touch+DevSecOps;Docker+%E2%80%A2+Kubernetes+%E2%80%A2+CI%2FCD+%E2%80%A2+LangChain)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Building+real-world+AI+products+%F0%9F%A4%96;FastAPI+%7C+React+%7C+LangChain+%7C+LangGraph;Open+Source+LLMs+%7C+RAG+%7C+GenAI;Open+to+AI%2FML+%26+SDE+Roles+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/itskie">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/itskie">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/iT_s_Kie">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+  <a href="https://linkedin.com/in/itskie"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/itskie"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:itskie7910@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-## About Me
+</div>
 
-BCA Graduate from Amity University, Noida (CGPA: 8.1) with a strong focus on **AI/ML Engineering** and **Full Stack Development**. I build end-to-end AI-powered applications using modern tools — from REST APIs to intelligent LangGraph agents running on open-source LLMs.
+## 👨‍💻 About Me
 
-I don't just learn theory — I ship real products. 🚀
-
-- 📍 India &nbsp;|&nbsp; Open to relocate
-- 💼 Open to: **AI/ML Engineer** · **Data Analyst** · **Software Developer**
-- 🤖 Currently working with: **LangChain · LangGraph · Groq · Ollama**
-
----
-
-## 🛠 Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Backend & Database**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
-
-**AI / GenAI**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-6E40C9?style=for-the-badge)
-![Groq](https://img.shields.io/badge/Groq_LLM-F55036?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG_Pipeline-4B0082?style=for-the-badge)
-
-**Frontend & Tools**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- 🔭 **Building:** [InfraGenie](https://github.com/itskie/infragenie) — An autonomous AI-native DevSecOps tool that generates CIS-hardened Dockerfiles and deploys to AWS ECS Fargate in <2 mins.
+- 💼 **Experience:** DevOps Engineer Intern @ **WebArclight** (Terraform, AWS, Kubernetes, CI/CD).
+- 🧠 **Focus Areas:** Agentic AI Workflows (LangGraph/LangChain), Cloud Infrastructure (AWS/ECS/EKS/Terraform), and DevSecOps Automation.
+- 🎓 **Education:** BCA (Cloud Computing), Amity University, Noida (CGPA: 8.1/10).
+- 💬 **Ask me about:** Python, FastAPI, AWS Architecture, Docker, LangChain, RAG, and Linux internals.
+- ⚡ **Philosophy:** *I don't just learn theory — I ship real, production-ready products.* 🚀
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Featured Open-Source Projects
 
-### 🏥 [MedSync AI](https://github.com/itskie/medsync-ai) &nbsp;—&nbsp; Full Stack AI CRM
-
-> AI-powered HCP Interaction Management System for the pharmaceutical industry
-
-**Tech:** FastAPI · React · MySQL · SQLAlchemy · LangChain · LangGraph · Groq · JWT
-
-- Built a stateful **LangGraph AI Agent** with 6 intelligent tools — sentiment analysis, follow-up suggestions, natural language interaction search
-- Designed and implemented **RESTful APIs** with role-based JWT authentication
-- Full stack connected with React frontend, Swagger UI, and MySQL database
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧞‍♂️ InfraGenie</h3>
+      <p align="center"><b>Autonomous AI-Native DevSecOps Orchestrator</b></p>
+      <p>Zero-touch Dockerfile generation, Aqua Trivy security scanning, and AWS ECS Fargate deployment in under 2 minutes (98.5% faster).</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS_ECS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Trivy-1D70B8?style=flat-square&logo=aquasec&logoColor=white" />
+      </p>
+      <p align="center"><a href="https://github.com/itskie/infragenie"><b>View Repository →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏥 MedSync AI</h3>
+      <p align="center"><b>Healthcare CRM with Agentic AI Workflows</b></p>
+      <p>Full-stack pharma CRM powered by a 6-tool stateful LangGraph agent for HCP profiling, sentiment analysis, and Groq LLM inference.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+      <p align="center"><a href="https://github.com/itskie/medsync-ai"><b>View Repository →</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📄 Private AI Multi-PDF RAG</h3>
+      <p align="center"><b>Enterprise Document Intelligence (100% Local)</b></p>
+      <p>Production RAG chatbot with PageIndex reasoning, BM25+FAISS hybrid search, CrossEncoder reranking, and Ollama local execution.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      </p>
+      <p align="center"><a href="https://github.com/itskie/rag-pdf-chatbot"><b>View Repository →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🚆 RailGram</h3>
+      <p align="center"><b>Serverless Railway Platform & Tracking Engine</b></p>
+      <p>Event-driven video processing with AWS Lambda + FFmpeg + CloudFront CDN alongside live GPS & Cell Tower Triangulation engine.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
+        <img src="https://img.shields.io/badge/CloudFront-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+      </p>
+      <p align="center"><a href="https://github.com/itskie/RailGram"><b>View Repository →</b></a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🤖 [RAG PDF Chatbot](https://github.com/itskie/rag-pdf-chatbot) &nbsp;—&nbsp; Local AI Chatbot
+## 🛠️ Tech Stack
 
-> Private, locally-running Enterprise Multi-PDF Chatbot — zero cloud dependency
+<div align="center">
 
-**Tech:** Python · LangChain · FAISS · ChromaDB · Ollama · Streamlit
-
-- Built a complete **RAG pipeline** to chat with multiple PDF documents locally
-- Integrated **Open Source LLMs** (LLaMA, Mistral, Qwen) via Ollama — no API costs
-- Features: OCR, Vision AI, Table extraction, Interactive charts, Multi-PDF support
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itskie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itskie&theme=tokyonight&hide_border=true" width="48%" />
+### 🤖 AI & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskie&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
+
+### 🛡️ DevSecOps & Observability
+<p>
+  <img src="https://img.shields.io/badge/Trivy-1D70B8?style=for-the-badge&logo=aquasec&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+</p>
+
+### 💻 Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itskie&label=Profile+Views&color=6E40C9&style=flat" />
-</p>
+## 📊 GitHub Analytics
 
-<p align="center"><i>"I don't just learn theory — I build real things." 🚀</i></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itskie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shobhit's GitHub stats" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskie&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="155" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itskie&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Designed & built with ❤️ by <b>Shobhit Singh</b> • Let's build the future of AI Infrastructure together!</sub>
+</div>

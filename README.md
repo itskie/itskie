@@ -4,7 +4,7 @@
 
 ### 🚀 AI & Cloud Infrastructure Engineer | Open-Source Creator
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=00B4D8&center=true&vCenter=true&width=620&lines=Building+Agentic+AI+Systems+%26+LangGraph+Workflows;Automating+Cloud+Infra+with+AWS%2C+ECS+%26+Terraform;Creator+of+InfraGenie+%E2%9E%94+Zero-Touch+DevSecOps;Docker+%E2%80%A2+Kubernetes+%E2%80%A2+CI%2FCD+%E2%80%A2+LangChain)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+Systems+%26+LangGraph+Workflows;Automating+Cloud+Infra+with+AWS%2C+ECS+%26+Terraform;Creator+of+InfraGenie+%E2%9E%94+Zero-Touch+DevSecOps;Open+for+AI%2FML+%26+Cloud%2FDevOps+Roles+Worldwide)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://linkedin.com/in/itskie"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -15,6 +15,17 @@
 ---
 
 </div>
+
+## 🎯 Open to Opportunities
+
+I am actively open to both **Full-Time** & **Contract** opportunities in:
+- 🤖 **AI / ML Engineering** — Agentic AI, Multi-Agent Systems (LangGraph), RAG Architectures, Local LLMs, FastAPI.
+- ☁️ **Cloud & DevOps Engineering** — AWS (ECS Fargate, EKS, Lambda), Kubernetes, Docker, Terraform, CI/CD, DevSecOps.
+- 🚀 **Full-Stack AI / Platform Engineering** — End-to-end AI products with production-grade cloud deployment.
+
+📍 **Location:** Remote / Relocate (Bangalore, Pune, Hyderabad, NCR, Worldwide) • **Availability:** Immediate Joiner
+
+---
 
 ## 👨‍💻 About Me
 
@@ -140,8 +151,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itskie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shobhit's GitHub stats" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskie&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="155" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=itskie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shobhit's GitHub stats" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=itskie&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </div>
 
 <div align="center">
@@ -151,5 +162,5 @@
 ---
 
 <div align="center">
-  <sub>Designed & built with ❤️ by <b>Shobhit Singh</b> • Let's build the future of AI Infrastructure together!</sub>
+  <sub>Designed & built with ❤️ by <b>Shobhit Singh</b> • Let's build the future of AI & Cloud Infrastructure together!</sub>
 </div>

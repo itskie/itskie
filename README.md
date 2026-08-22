@@ -86,16 +86,16 @@ const shobhit = {
       <p align="center"><a href="https://github.com/itskie/infragenie"><b>View Repository →</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏥 MedSync AI</h3>
-      <p align="center"><b>Healthcare CRM with Agentic AI Workflows</b></p>
-      <p>Full-stack pharma CRM powered by a 6-tool stateful LangGraph agent for HCP profiling, sentiment analysis, and Groq LLM inference.</p>
+      <h3 align="center">🤖 JobHunter</h3>
+      <p align="center"><b>Autonomous Cloud & DevOps Job Discovery & Outreach Engine</b></p>
+      <p>Multi-feed Playwright crawler scanning 20+ live streams, filtering 0-2 yrs Cloud/DevOps roles, and auto-dispatching tailored cold applications with PDF resumes.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-        <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+        <img src="https://img.shields.io/badge/Automation-FF6F00?style=flat-square&logo=robot&logoColor=white" />
+        <img src="https://img.shields.io/badge/SMTP-D14836?style=flat-square&logo=gmail&logoColor=white" />
       </p>
-      <p align="center"><a href="https://github.com/itskie/medsync-ai"><b>View Repository →</b></a></p>
+      <p align="center"><a href="https://github.com/itskie/jobhunter"><b>View Repository →</b></a></p>
     </td>
   </tr>
   <tr>

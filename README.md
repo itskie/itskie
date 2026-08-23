@@ -1,44 +1,69 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=200&section=header&text=Shobhit%20Singh&fontSize=50&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AI%2FML%20Infrastructure&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
-</div>
 
-<div align="center">
-  <a href="https://linkedin.com/in/itskie">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:itskie7910@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/itskie">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
+# Hi there, I'm Shobhit Singh 👋
 
-<br/>
+### 🚀 AI & Cloud Infrastructure Engineer | Open-Source Creator
 
-## 👨‍💻 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+Systems+%26+LangGraph+Workflows;Automating+Cloud+Infra+with+AWS%2C+ECS+%26+Terraform;Creator+of+InfraGenie+%E2%9E%94+Zero-Touch+DevSecOps;Creator+of+FinOps-AI+%E2%9E%94+Autonomous+AWS+Cost+Optimizer;Open+for+AI%2FML+%26+Cloud%2FDevOps+Roles+Worldwide)](https://git.io/typing-svg)
 
-I am a **Cloud & DevOps Engineer** specializing in **AWS Cloud Infrastructure**, **Container Orchestration (Docker & Kubernetes)**, and **AI-Driven Infrastructure Automation**. 
-
-- 🔭 **Currently Building:** [InfraGenie](https://github.com/itskie/infragenie) (AI-native DevSecOps CLI) & [FinOps-AI](https://github.com/itskie/finops-ai) (Autonomous AWS Cost Optimizer).
-- 💼 **Experience:** DevOps Engineer Intern @ WebArclight (AWS, Kubernetes, Terraform IaC, CI/CD).
-- ⚡ **Specialties:** Zero-touch deployments, DevSecOps shift-left (Trivy/SonarQube/Checkov), AWS landing zones, and Agentic AI workflows.
-- 📫 **Reach Me:** [itskie7910@gmail.com](mailto:itskie7910@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/itskie"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/itskie"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:itskie7910@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Tooling
+</div>
+
+```javascript
+const shobhit = {
+  role: "AI & Cloud Infrastructure Engineer",
+  location: "India 🇮🇳",
+  status: "🟢 Open for Opportunities (AI/ML & Cloud/DevOps)",
+  workingOn: {
+    current: ["InfraGenie 🧞‍♂️", "FinOps-AI 💰", "JobHunter 🤖", "Kubernetes & Terraform IaC"],
+    building: ["Zero-Touch DevSecOps Automation", "Autonomous AWS Cloud Cost Governance"]
+  },
+  certifications: ["AWS Cloud Practitioner ☁️", "TryHackMe Pre-Security 🛡️"],
+  passion: "Bridging generative AI with production-grade, resilient cloud infrastructure",
+  philosophy: "Deploy Fast. Break Nothing. Automate Everything. 🚀"
+};
+```
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### Cloud & Container Orchestration
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux" />
+### ☁️ Cloud & Infrastructure
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,nginx&theme=dark" />
+  </a>
+</p>
 
-### CI/CD, DevSecOps & Monitoring
-<img src="https://skillicons.dev/icons?i=githubactions,git,prometheus,grafana,nginx" />
+### 🔄 CI/CD & DevSecOps & Observability
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=githubactions,git,bash,prometheus,grafana&theme=dark" />
+  </a>
+</p>
 
-### Backend & AI Engineering
-<img src="https://skillicons.dev/icons?i=python,fastapi,ts,react,postgres,mysql,redis" />
+### 🤖 AI, Backend & Frameworks
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,js,nextjs&theme=dark" />
+  </a>
+</p>
+
+### 🗄️ Databases & Developer Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,vscode,postman,github&theme=dark" />
+  </a>
+</p>
 
 </div>
 
@@ -56,7 +81,7 @@ I am a **Cloud & DevOps Engineer** specializing in **AWS Cloud Infrastructure**,
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/AWS_ECS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Trivy-005571?style=flat-square&logo=aquasec&logoColor=white" />
+        <img src="https://img.shields.io/badge/Trivy-1D70B8?style=flat-square&logo=aquasec&logoColor=white" />
       </p>
       <p align="center"><a href="https://github.com/itskie/infragenie"><b>View Repository →</b></a></p>
     </td>
@@ -67,7 +92,7 @@ I am a **Cloud & DevOps Engineer** specializing in **AWS Cloud Infrastructure**,
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-        <img src="https://img.shields.io/badge/Automation-FF6F00?style=flat-square&logo=zapier&logoColor=white" />
+        <img src="https://img.shields.io/badge/Automation-FF6F00?style=flat-square&logo=robot&logoColor=white" />
         <img src="https://img.shields.io/badge/SMTP-D14836?style=flat-square&logo=gmail&logoColor=white" />
       </p>
       <p align="center"><a href="https://github.com/itskie/jobhunter"><b>View Repository →</b></a></p>
@@ -112,4 +137,10 @@ I am a **Cloud & DevOps Engineer** specializing in **AWS Cloud Infrastructure**,
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itskie&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Designed & built with ❤️ by <b>Shobhit Singh</b> • Let's build the future of AI & Cloud Infrastructure together!</sub>
 </div>

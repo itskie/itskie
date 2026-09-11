@@ -54,8 +54,8 @@ const shobhit = {
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
       <p align="center">
-        <a href="http://finopsai.space"><b>🌐 Live Platform</b></a> • 
-        <a href="https://github.com/itskie/finops-ai"><b>GitHub Repo →</b></a>
+        <a href="http://finopsai.space"><b>🌐 Visit Live SaaS (finopsai.space) →</b></a><br/>
+        <sub>🔒 Proprietary Enterprise SaaS • Private Architecture</sub>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -83,8 +83,8 @@ const shobhit = {
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://reeldm.space"><b>🌐 Live Platform</b></a> • 
-        <a href="https://github.com/itskie/reeldm"><b>GitHub Repo →</b></a>
+        <a href="https://reeldm.space"><b>🌐 Visit Live SaaS (reeldm.space) →</b></a><br/>
+        <sub>🔒 Proprietary Commercial SaaS • Private Architecture</sub>
       </p>
     </td>
     <td width="50%" valign="top">

@@ -2,14 +2,15 @@
 
 # Hi there, I'm Shobhit Singh 👋
 
-### 🚀 AI & Cloud Infrastructure Engineer | Open-Source Creator
+### 🚀 Cloud & AI Infrastructure Engineer | Systems & Open-Source Creator
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+Systems+%26+LangGraph+Workflows;Automating+Cloud+Infra+with+AWS%2C+ECS+%26+Terraform;Creator+of+InfraGenie+%E2%9E%94+Zero-Touch+DevSecOps;Creator+of+FinOps-AI+%E2%9E%94+Autonomous+AWS+Cost+Optimizer;Open+for+AI%2FML+%26+Cloud%2FDevOps+Roles+Worldwide)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Architecting+Resilient+AWS+Cloud+with+Terraform+%26+Kubernetes;Building+Stateful+LangGraph+Agents+%26+Private+RAG+Systems;Creator+of+FinOps-AI+%E2%9E%94+Live+AWS+Cost+Governance+SaaS;Creator+of+InfraGenie+%E2%9E%94+Autonomous+AI+DevSecOps+Orchestrator;Creator+of+ReelDM+%E2%9E%94+Live+Instagram+Lead+Automation+Engine)](https://git.io/typing-svg)
 
 <p align="center">
+  <a href="http://finopsai.space"><img src="https://img.shields.io/badge/Live_SaaS-FinOps--AI-00f2fe?style=for-the-badge&logo=amazon-aws&logoColor=black" alt="FinOps-AI" /></a>
+  <a href="https://reeldm.space"><img src="https://img.shields.io/badge/Live_SaaS-ReelDM-FF007F?style=for-the-badge&logo=instagram&logoColor=white" alt="ReelDM" /></a>
   <a href="https://linkedin.com/in/itskie"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/itskie"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:itskie7910@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:itskie7910@gmail.com"><img src="https://img.shields.io/badge/Email-itskie7910%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -18,18 +19,115 @@
 
 ```javascript
 const shobhit = {
-  role: "AI & Cloud Infrastructure Engineer",
+  role: "Cloud & AI Infrastructure Engineer",
   location: "India 🇮🇳",
-  status: "🟢 Open for Opportunities (AI/ML & Cloud/DevOps)",
-  workingOn: {
-    current: ["InfraGenie 🧞‍♂️", "FinOps-AI 💰", "JobHunter 🤖", "Kubernetes & Terraform IaC"],
-    building: ["Zero-Touch DevSecOps Automation", "Autonomous AWS Cloud Cost Governance"]
+  coreFocus: [
+    "High-Availability AWS & Kubernetes Architecture",
+    "Terraform (IaC) & DevSecOps Compliance",
+    "Stateful Multi-Agent Systems (LangGraph & LangChain)",
+    "Cloud Cost Optimization & FinOps Governance"
+  ],
+  livePlatforms: {
+    finops: "FinOps-AI (finopsai.space) 💰 — Multi-region AWS waste governor & 1-click IaC remediator",
+    social_automation: "ReelDM (reeldm.space) 🎬 — Meta Graph API comment-to-DM lead engine",
+    devsecops: "InfraGenie 🧞‍♂️ — AI-native Dockerizer & ECS deployer (Tree-sitter AST, Aqua Trivy)",
+    ai_crm: "MedSync AI 🤖 — Healthcare CRM powered by 6-tool stateful LangGraph agent"
   },
-  certifications: ["AWS Cloud Practitioner ☁️", "TryHackMe Pre-Security 🛡️"],
-  passion: "Bridging generative AI with production-grade, resilient cloud infrastructure",
+  certifications: ["AWS Cloud Practitioner ☁️", "TryHackMe Pre-Security & Cyber Security 🛡️"],
   philosophy: "Deploy Fast. Break Nothing. Automate Everything. 🚀"
 };
 ```
+
+---
+
+## 🌟 Featured Production Platforms & Architectures
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ FinOps-AI</h3>
+      <p align="center"><b>Live AWS Cloud Cost Governance SaaS [<a href="http://finopsai.space">finopsai.space</a>]</b></p>
+      <p>Autonomously audits & detects zombie cloud assets across 17 AWS regions in &lt;30s. Generates 1-click Terraform HCL + Bash cleanup scripts with Production Tag Immunity Shields. Running on ECS Fargate Spot behind ALB at $2.70/mo (70% savings).</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/AWS_ECS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="http://finopsai.space"><b>🌐 Live Platform</b></a> • 
+        <a href="https://github.com/itskie/finops-ai"><b>GitHub Repo →</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧞‍♂️ InfraGenie</h3>
+      <p align="center"><b>Autonomous AI-Native DevSecOps Orchestrator</b></p>
+      <p>Autonomous CLI parsing code AST across 6 languages via Tree-sitter, generating CIS-hardened Dockerfiles, and deploying to AWS ECS Fargate in &lt;2 minutes (98.5% faster). Automated Aqua Trivy CVE blocking with 55 unit tests.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Aqua_Trivy-1D70B8?style=flat-square&logo=aquasec&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tree--sitter-000000?style=flat-square&logo=c&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS_Fargate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+      </p>
+      <p align="center"><a href="https://github.com/itskie/infragenie"><b>View Repository →</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎬 ReelDM</h3>
+      <p align="center"><b>Live Instagram Lead & DM Automation Engine [<a href="https://reeldm.space">reeldm.space</a>]</b></p>
+      <p>High-throughput Meta Graph API & Webhook automation engine deployed on AWS EC2 (Mumbai ap-south-1) with Elastic IP. Automates real-time comment-to-DM conversion, follow-gate validation, and instant lead routing.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Meta_Graph_API-0081FB?style=flat-square&logo=meta&logoColor=white" />
+        <img src="https://img.shields.io/badge/Nginx_SSL-009639?style=flat-square&logo=nginx&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://reeldm.space"><b>🌐 Live Platform</b></a> • 
+        <a href="https://github.com/itskie/reeldm"><b>GitHub Repo →</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 MedSync AI</h3>
+      <p align="center"><b>Stateful AI Agent CRM for Healthcare</b></p>
+      <p>Full-stack pharma CRM driven by a 6-tool stateful LangGraph agent for automated HCP profiling and sentiment analysis. Powered by Groq LLM (Llama 3.1) for ultra-low latency; JWT auth with RBAC across 15+ REST endpoints.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Groq_Llama3.1-F55036?style=flat-square&logo=groq&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      </p>
+      <p align="center"><a href="https://github.com/itskie/medsync-ai"><b>View Repository →</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📄 Private AI Multi-PDF RAG</h3>
+      <p align="center"><b>Enterprise Document Intelligence (100% Local)</b></p>
+      <p>Production RAG chatbot with PageIndex reasoning, BM25+FAISS hybrid search, CrossEncoder reranking, and Ollama local execution. Indexes 5,000+ PDFs in under 2 minutes with embedding caching.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      </p>
+      <p align="center"><a href="https://github.com/itskie/rag-pdf-chatbot"><b>View Repository →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 JobHunter</h3>
+      <p align="center"><b>Autonomous Cloud & DevOps Discovery Engine</b></p>
+      <p>Multi-feed Playwright crawler scanning 20+ live tech streams, filtering 0-2 yrs Cloud/DevOps roles, and auto-dispatching tailored cold outreach applications with resume attachments.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Automation-FF6F00?style=flat-square&logo=robot&logoColor=white" />
+        <img src="https://img.shields.io/badge/SMTP-D14836?style=flat-square&logo=gmail&logoColor=white" />
+      </p>
+      <p align="center"><a href="https://github.com/itskie/jobhunter"><b>View Repository →</b></a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -44,7 +142,7 @@ const shobhit = {
   </a>
 </p>
 
-### 🔄 CI/CD & DevSecOps & Observability
+### 🔄 CI/CD, DevSecOps & Observability
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=githubactions,git,bash,prometheus,grafana&theme=dark" />
@@ -69,65 +167,6 @@ const shobhit = {
 
 ---
 
-## 🌟 Featured Open-Source Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🧞‍♂️ InfraGenie</h3>
-      <p align="center"><b>Autonomous AI-Native DevSecOps Orchestrator</b></p>
-      <p>Zero-touch Dockerfile generation, Aqua Trivy security scanning, and AWS ECS Fargate deployment in under 2 minutes (98.5% faster).</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS_ECS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Trivy-1D70B8?style=flat-square&logo=aquasec&logoColor=white" />
-      </p>
-      <p align="center"><a href="https://github.com/itskie/infragenie"><b>View Repository →</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 JobHunter</h3>
-      <p align="center"><b>Autonomous Cloud & DevOps Job Discovery & Outreach Engine</b></p>
-      <p>Multi-feed Playwright crawler scanning 20+ live streams, filtering 0-2 yrs Cloud/DevOps roles, and auto-dispatching tailored cold applications with PDF resumes.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-        <img src="https://img.shields.io/badge/Automation-FF6F00?style=flat-square&logo=robot&logoColor=white" />
-        <img src="https://img.shields.io/badge/SMTP-D14836?style=flat-square&logo=gmail&logoColor=white" />
-      </p>
-      <p align="center"><a href="https://github.com/itskie/jobhunter"><b>View Repository →</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📄 Private AI Multi-PDF RAG</h3>
-      <p align="center"><b>Enterprise Document Intelligence (100% Local)</b></p>
-      <p>Production RAG chatbot with PageIndex reasoning, BM25+FAISS hybrid search, CrossEncoder reranking, and Ollama local execution.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-        <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
-        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-      </p>
-      <p align="center"><a href="https://github.com/itskie/rag-pdf-chatbot"><b>View Repository →</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">☁️ FinOps-AI</h3>
-      <p align="center"><b>Autonomous AWS Cloud Cost Optimizer & Zombie Killer</b></p>
-      <p>Multi-region AWS cost governance engine detecting unattached EBS, idle ALBs, unused EIPs with automated Terraform & CLI remediation.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS_Boto3-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
-        <img src="https://img.shields.io/badge/Rich_CLI-000000?style=flat-square&logo=gnubash&logoColor=white" />
-      </p>
-      <p align="center"><a href="https://github.com/itskie/finops-ai"><b>View Repository →</b></a></p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -142,5 +181,5 @@ const shobhit = {
 ---
 
 <div align="center">
-  <sub>Designed & built with ❤️ by <b>Shobhit Singh</b> • Let's build the future of AI & Cloud Infrastructure together!</sub>
+  <sub>Designed & engineered with ❤️ by <b>Shobhit Singh</b> • Let's build the future of AI & Cloud Infrastructure together!</sub>
 </div>

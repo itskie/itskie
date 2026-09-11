@@ -7,10 +7,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Architecting+Resilient+AWS+Cloud+with+Terraform+%26+Kubernetes;Building+Stateful+LangGraph+Agents+%26+Private+RAG+Systems;Creator+of+FinOps-AI+%E2%9E%94+Live+AWS+Cost+Governance+SaaS;Creator+of+InfraGenie+%E2%9E%94+Autonomous+AI+DevSecOps+Orchestrator;Creator+of+ReelDM+%E2%9E%94+Live+Instagram+Lead+Automation+Engine)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="http://finopsai.space"><img src="https://img.shields.io/badge/Live_SaaS-FinOps--AI-00f2fe?style=for-the-badge&logo=amazon-aws&logoColor=black" alt="FinOps-AI" /></a>
-  <a href="https://reeldm.space"><img src="https://img.shields.io/badge/Live_SaaS-ReelDM-FF007F?style=for-the-badge&logo=instagram&logoColor=white" alt="ReelDM" /></a>
   <a href="https://linkedin.com/in/itskie"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:itskie7910@gmail.com"><img src="https://img.shields.io/badge/Email-itskie7910%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/itskie"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:itskie7910@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -174,9 +173,7 @@ const shobhit = {
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=itskie&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itskie&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+
 
 ---
 

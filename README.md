@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=840&lines=Creator+of+Friday+%E2%9E%94+Open-Source+Persistent+Memory+MCP+Server+(44%E2%98%85);Creator+of+ReelDM+%E2%9E%94+Live+Instagram+Automation+SaaS+(reeldm.space);Architecting+Resilient+AWS+Cloud+with+Terraform+%26+Kubernetes;Building+Stateful+LangGraph+Agents+%26+Neo4j+Knowledge+Graphs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=860&lines=Creator+of+Friday+%E2%9E%94+Open-Source+Persistent+Memory+MCP+Server+(44%E2%98%85);Creator+of+ReelDM+%E2%9E%94+Live+Instagram+Automation+SaaS+(reeldm.space);Architecting+Resilient+AWS+Cloud+with+Terraform+%26+Kubernetes;Building+Stateful+LangGraph+Agents+%26+Neo4j+Knowledge+Graphs)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/friday-memory/friday"><img src="https://img.shields.io/badge/Friday-44%E2%98%85%20OSS-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="Friday 44 Stars" /></a>
@@ -15,6 +15,10 @@
 </p>
 
 <img src="./assets/metrics.svg" width="100%" alt="Production Metrics & Verified Benchmarks" />
+
+<br/><br/>
+
+<img src="./assets/architecture.svg" width="100%" alt="Production Systems Architecture Topology" />
 
 </div>
 
@@ -160,9 +164,19 @@ class ShobhitSingh:
 
 <br/>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itskie/itskie/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itskie/itskie/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/itskie/itskie/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
 ---
 
 <div align="center">
-  <sub>⚡ Engineered with precision by <b>Shobhit Singh</b> • Autonomous, stateful, and production-tested.</sub><br/>
+  <sub>⚡ Engineered with F.R.I.D.A.Y. Protocol precision by <b>Shobhit Singh</b> • Autonomous, stateful, and production-tested.</sub><br/>
   <sub><i>"Deploy Fast. Break Nothing. Automate Everything."</i></sub>
 </div>

@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 240" width="100%" height="100%">
+  <defs>
+    <linearGradient id="boxGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#111827" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#090d16" stop-opacity="0.95" />
+    </linearGradient>
+
+    <linearGradient id="flowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#6366f1" />
+      <stop offset="100%" stop-color="#22c55e" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+    .box-title { font-size: 12.5px; font-weight: 700; fill: #f8fafc; }
+    .box-sub { font-size: 10px; fill: #94a3b8; }
+    .tag { font-size: 9.5px; font-weight: 600; }
+  </style>
+
+  <!-- Background Canvas -->
+  <rect width="920" height="240" rx="12" fill="#080c14" stroke="#1e293b" stroke-width="1.2" />
+
+  <!-- Section Title -->
+  <text x="24" y="28" class="mono" font-size="11" fill="#38bdf8" font-weight="600" letter-spacing="1.5">❯ SYSTEM ARCHITECTURE TOPOLOGY</text>
+  <text x="896" y="28" class="mono" font-size="10" fill="#64748b" text-anchor="end">PRODUCTION WORKFLOWS</text>
+  <line x1="24" y1="38" x2="896" y2="38" stroke="#162235" stroke-width="1" />
+
+  <!-- Connecting Bus Lines -->
+  <!-- Layer 1 to Layer 2 -->
+  <path d="M 160 115 L 240 115" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="4,4" opacity="0.8" />
+  <!-- Layer 2 to Layer 3 (Split) -->
+  <path d="M 440 100 L 485 100 L 485 80 L 530 80" stroke="#6366f1" stroke-width="1.5" stroke-dasharray="4,4" opacity="0.8" />
+  <path d="M 440 130 L 485 130 L 485 160 L 530 160" stroke="#f59e0b" stroke-width="1.5" stroke-dasharray="4,4" opacity="0.8" />
+  <!-- Layer 3 to Layer 4 -->
+  <path d="M 730 80 L 765 80 L 765 115 L 785 115" stroke="#22c55e" stroke-width="1.5" stroke-dasharray="4,4" opacity="0.8" />
+  <path d="M 730 160 L 765 160 L 765 115 L 785 115" stroke="#06b6d4" stroke-width="1.5" stroke-dasharray="4,4" opacity="0.8" />
+
+  <!-- Node 1: Ingress & Webhooks -->
+  <g transform="translate(24, 65)">
+    <rect width="136" height="110" rx="8" fill="url(#boxGrad)" stroke="#38bdf8" stroke-width="1.2" />
+    <text x="14" y="26" class="sans box-title">Traffic Ingress</text>
+    <text x="14" y="44" class="mono box-sub">Meta Graph API</text>
+    <text x="14" y="58" class="mono box-sub">HMAC-SHA256 Sig</text>
+    <text x="14" y="72" class="mono box-sub">Agent Requests</text>
+    <rect x="14" y="84" width="70" height="16" rx="4" fill="#0369a1" opacity="0.4" />
+    <text x="49" y="96" class="mono tag" fill="#38bdf8" text-anchor="middle">SUB-SECOND</text>
+  </g>
+
+  <!-- Node 2: Core Microservices & Queue -->
+  <g transform="translate(240, 50)">
+    <rect width="200" height="140" rx="8" fill="url(#boxGrad)" stroke="#6366f1" stroke-width="1.2" />
+    <text x="16" y="26" class="sans box-title">FastAPI Microservices</text>
+    <text x="16" y="46" class="mono box-sub">AsyncIO Event Processing</text>
+    <text x="16" y="62" class="mono box-sub">Redis Distributed Locking</text>
+    <text x="16" y="78" class="mono box-sub">Celery Task Dispatcher</text>
+    <text x="16" y="94" class="mono box-sub">JWT / Role-Based Access</text>
+    <rect x="16" y="110" width="168" height="18" rx="4" fill="#312e81" opacity="0.4" />
+    <text x="100" y="123" class="mono tag" fill="#a78bfa" text-anchor="middle">REELDM + FRIDAY CORE</text>
+  </g>
+
+  <!-- Node 3A: Autonomous Agent Substrate (Top) -->
+  <g transform="translate(530, 48)">
+    <rect width="200" height="68" rx="8" fill="url(#boxGrad)" stroke="#818cf8" stroke-width="1.2" />
+    <text x="14" y="22" class="sans box-title">Agent Substrate (MCP)</text>
+    <text x="14" y="38" class="mono box-sub">LangGraph Multi-Agent Flows</text>
+    <text x="14" y="52" class="mono box-sub">DeepEval 91% Token Reduction</text>
+  </g>
+
+  <!-- Node 3B: Resilient AWS Cloud (Bottom) -->
+  <g transform="translate(530, 126)">
+    <rect width="200" height="68" rx="8" fill="url(#boxGrad)" stroke="#f59e0b" stroke-width="1.2" />
+    <text x="14" y="22" class="sans box-title">AWS Cloud Infrastructure</text>
+    <text x="14" y="38" class="mono box-sub">ECS Fargate Spot · ALB · VPC</text>
+    <text x="14" y="52" class="mono box-sub">Terraform Modular IaC</text>
+  </g>
+
+  <!-- Node 4: Hybrid Cognitive Storage -->
+  <g transform="translate(785, 55)">
+    <rect width="115" height="130" rx="8" fill="url(#boxGrad)" stroke="#22c55e" stroke-width="1.2" />
+    <text x="12" y="24" class="sans box-title">Persistence</text>
+    <text x="12" y="44" class="mono box-sub">Neo4j Graph</text>
+    <text x="12" y="58" class="mono box-sub">Cypher Query</text>
+    <text x="12" y="74" class="mono box-sub">ChromaDB</text>
+    <text x="12" y="88" class="mono box-sub">PostgreSQL</text>
+    <rect x="12" y="102" width="91" height="18" rx="4" fill="#064e3b" opacity="0.4" />
+    <text x="57.5" y="115" class="mono tag" fill="#34d399" text-anchor="middle">ZERO-DRIFT</text>
+  </g>
+
+  <!-- Bottom Pulse Line -->
+  <line x1="24" y1="239" x2="896" y2="239" stroke="url(#flowGrad)" stroke-width="2" />
+</svg>

@@ -1,0 +1,6 @@
+assets/source-cutout.png
+assets/source-prepped.png
+__pycache__/
+*.pyc
+.venv/
+README.md.old

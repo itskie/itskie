@@ -4,10 +4,10 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=860&lines=Creator+of+Friday+%E2%9E%94+Open-Source+Persistent+Memory+MCP+Server+(44%E2%98%85);Creator+of+ReelDM+%E2%9E%94+Live+Instagram+Automation+SaaS+(reeldm.space);Architecting+Resilient+AWS+Cloud+with+Terraform+%26+Kubernetes;Building+Stateful+LangGraph+Agents+%26+Neo4j+Knowledge+Graphs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=860&lines=Creator+of+Friday+%E2%9E%94+Open-Source+Persistent+Memory+MCP+Server+(65%E2%98%85%20%C2%B7%2010%20Forks);Creator+of+ReelDM+%E2%9E%94+Live+Instagram+Automation+SaaS+(reeldm.space);Architecting+Resilient+AWS+Cloud+with+Terraform+%26+Kubernetes;Building+Stateful+LangGraph+Agents+%26+Neo4j+Knowledge+Graphs)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://github.com/friday-memory/friday"><img src="https://img.shields.io/badge/Friday-44%E2%98%85%20OSS-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="Friday 44 Stars" /></a>
+  <a href="https://github.com/friday-memory/friday"><img src="https://img.shields.io/badge/Friday-65%E2%98%85%20OSS-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="Friday 65 Stars" /></a>
   <a href="https://reeldm.space"><img src="https://img.shields.io/badge/ReelDM-Live%20SaaS-00B4D8?style=for-the-badge" alt="ReelDM Live SaaS" /></a>
   <a href="https://finopsai.space"><img src="https://img.shields.io/badge/FinOps--AI-Live%20SaaS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="FinOps-AI Live SaaS" /></a>
   <a href="https://linkedin.com/in/itskie"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -32,7 +32,7 @@ class ShobhitSingh:
     location = "Dhanbad / Bengaluru, India (Open to Relocate)"
     
     flagship_platforms = {
-        "friday_oss": "Persistent Cognitive Memory Substrate for AI Agents (44★, MCP, Neo4j)",
+        "friday_oss": "Persistent Cognitive Memory Substrate for AI Agents (65★, 10 Forks, 280+ Downloads, MCP, Neo4j)",
         "reeldm_saas": "Live Instagram Lead Qualification & DM Automation SaaS on AWS EC2",
         "finops_ai": "Production AWS Cost Governance SaaS (17 regions <30s, $2.70/mo)",
         "infragenie": "Autonomous DevSecOps Orchestrator (Tree-sitter AST, Aqua Trivy)"
@@ -59,7 +59,7 @@ class ShobhitSingh:
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/friday-memory/friday"><b>⭐ View Repository (44★ Stars) →</b></a><br/>
+        <a href="https://github.com/friday-memory/friday"><b>⭐ View Repository (65★ Stars · 10 Forks) →</b></a><br/>
         <sub>DeepEval Token Benchmarks • 1-Command Installer • Neural Studio</sub>
       </p>
     </td>

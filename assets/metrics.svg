@@ -39,9 +39,9 @@
     <!-- Card 1: Friday Stars -->
     <rect x="0" y="0" width="222" height="100" rx="10" fill="url(#cardGrad)" stroke="#1e293b" stroke-width="1.2" />
     <line x1="12" y1="99" x2="210" y2="99" stroke="#f59e0b" stroke-width="2" opacity="0.8" />
-    <text x="20" y="38" class="sans val" fill="url(#glowStar)">44+ ⭐</text>
+    <text x="20" y="38" class="sans val" fill="url(#glowStar)">65+ ⭐</text>
     <text x="20" y="62" class="mono lbl">Friday OSS Stars</text>
-    <text x="20" y="80" class="mono sub">Global Community Adoption</text>
+    <text x="20" y="80" class="mono sub">10 Forks · 280+ Downloads</text>
 
     <!-- Card 2: Contributions -->
     <rect x="232" y="0" width="222" height="100" rx="10" fill="url(#cardGrad)" stroke="#1e293b" stroke-width="1.2" />
